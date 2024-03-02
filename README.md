@@ -10,3 +10,7 @@
   ```bash
   git checkout IA
   ```
+  *  Python Django -> 
+  ```bash
+  git checkout django
+  ```
