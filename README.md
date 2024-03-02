@@ -10,7 +10,7 @@
   ```bash
   git checkout IA
   ```
-  *  Python Django -> 
+*  Python Django -> 
   ```bash
   git checkout django
   ```
