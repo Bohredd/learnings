@@ -2,7 +2,11 @@
 
 -> Tudo dividido entre branchs
 * Exemplo:
-  * \\ Python ->```bash
-  git checkout python```
-  * \\ Inteligência Artificial -> ```bash
-  git checkout IA```
+  * \\ Python ->
+  ```bash
+  git checkout python
+  ```
+  * \\ Inteligência Artificial -> 
+  ```bash
+  git checkout IA
+  ```
