@@ -1,0 +1,38 @@
+[
+  {
+    "texto": "já é 8 horas da manhã",
+    "categoria": "manhã"
+  },
+  {
+    "texto": "boa noite",
+    "categoria": "noite"
+  },
+  {
+    "texto": "vou deitar já é 7 da noite",
+    "categoria": "noite"
+  },
+  {
+    "texto": "bom dia",
+    "categoria": "manhã"
+  },
+  {
+    "texto": "almoço ou almoçar",
+    "categoria": "manhã"
+  },
+  {
+    "texto": "janta ou jantar",
+    "categoria": "noite"
+  },
+  {
+    "texto": "ta tarde",
+    "categoria": "noite"
+  },
+  {
+    "texto": "ta tarde",
+    "categoria": "noite"
+  },
+  {
+    "texto": "pensei em ir cedo",
+    "categoria": "manhã"
+  }
+]
